@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.9c8eaacb.css",
-    "main.js": "/static/js/main.75e3930a.js",
-    "static/js/787.d9e687c4.chunk.js": "/static/js/787.d9e687c4.chunk.js",
-    "static/media/saki_ts.jpeg": "/static/media/saki_ts.3ec3f37392f8ae0d7065.jpeg",
-    "static/media/hanako_park_away.jpg": "/static/media/hanako_park_away.44323afce52f403be6e8.jpg",
-    "static/media/rin_goodend_base.jpg": "/static/media/rin_goodend_base.75b91dc5b8c6b59cad95.jpg",
-    "static/media/emi_parkback.jpg": "/static/media/emi_parkback.2c0eccf3b4f135a65122.jpg",
-    "static/media/shizu_shanghai_smirklaugh.jpg": "/static/media/shizu_shanghai_smirklaugh.3055c9255e8080b94de9.jpg",
-    "static/media/lilly_touch_cheong.jpg": "/static/media/lilly_touch_cheong.574f7b4b7daeddd91d43.jpg",
-    "static/media/playtime_cyr2.ttf": "/static/media/playtime_cyr2.a5eca02a95c48dd8bdc8.ttf",
-    "static/media/cred_logo.png": "/static/media/cred_logo.b1f3381a2c06eb051ed8.png",
-    "static/media/playtime_bold.ttf": "/static/media/playtime_bold.aa9c58875f07ec6bc244.ttf",
-    "static/media/bg-popup.png": "/static/media/bg-popup.67056966f84da50500cc.png",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.9c8eaacb.css.map": "/static/css/main.9c8eaacb.css.map",
-    "main.75e3930a.js.map": "/static/js/main.75e3930a.js.map",
-    "787.d9e687c4.chunk.js.map": "/static/js/787.d9e687c4.chunk.js.map"
+    "main.css": "/Katawa-Shoujo-Web/static/css/main.92e24962.css",
+    "main.js": "/Katawa-Shoujo-Web/static/js/main.118116b3.js",
+    "static/js/787.d9e687c4.chunk.js": "/Katawa-Shoujo-Web/static/js/787.d9e687c4.chunk.js",
+    "static/media/saki_ts.jpeg": "/Katawa-Shoujo-Web/static/media/saki_ts.3ec3f37392f8ae0d7065.jpeg",
+    "static/media/hanako_park_away.jpg": "/Katawa-Shoujo-Web/static/media/hanako_park_away.44323afce52f403be6e8.jpg",
+    "static/media/rin_goodend_base.jpg": "/Katawa-Shoujo-Web/static/media/rin_goodend_base.75b91dc5b8c6b59cad95.jpg",
+    "static/media/emi_parkback.jpg": "/Katawa-Shoujo-Web/static/media/emi_parkback.2c0eccf3b4f135a65122.jpg",
+    "static/media/shizu_shanghai_smirklaugh.jpg": "/Katawa-Shoujo-Web/static/media/shizu_shanghai_smirklaugh.3055c9255e8080b94de9.jpg",
+    "static/media/lilly_touch_cheong.jpg": "/Katawa-Shoujo-Web/static/media/lilly_touch_cheong.574f7b4b7daeddd91d43.jpg",
+    "static/media/playtime_cyr2.ttf": "/Katawa-Shoujo-Web/static/media/playtime_cyr2.a5eca02a95c48dd8bdc8.ttf",
+    "static/media/cred_logo.png": "/Katawa-Shoujo-Web/static/media/cred_logo.b1f3381a2c06eb051ed8.png",
+    "static/media/playtime_bold.ttf": "/Katawa-Shoujo-Web/static/media/playtime_bold.aa9c58875f07ec6bc244.ttf",
+    "static/media/bg-popup.png": "/Katawa-Shoujo-Web/static/media/bg-popup.67056966f84da50500cc.png",
+    "static/media/logo.svg": "/Katawa-Shoujo-Web/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Katawa-Shoujo-Web/index.html",
+    "main.92e24962.css.map": "/Katawa-Shoujo-Web/static/css/main.92e24962.css.map",
+    "main.118116b3.js.map": "/Katawa-Shoujo-Web/static/js/main.118116b3.js.map",
+    "787.d9e687c4.chunk.js.map": "/Katawa-Shoujo-Web/static/js/787.d9e687c4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9c8eaacb.css",
-    "static/js/main.75e3930a.js"
+    "static/css/main.92e24962.css",
+    "static/js/main.118116b3.js"
   ]
 }
