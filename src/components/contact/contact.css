@@ -1,0 +1,17 @@
+.contact-div {
+    font-family: 'Playtime';
+    color: #8F8476;
+    font-size: 1.4vw;
+    text-align: justify;
+    text-justify: inter-word;
+    justify-items: center;
+    margin-left: 3vw;
+}
+
+.flex-box-button {
+    display:flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    width: 50%;
+    margin-top: 3vh;
+}

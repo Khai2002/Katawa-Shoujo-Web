@@ -1,0 +1,38 @@
+@font-face {
+    font-family: 'Playtime';
+    src: url(../playtime_cyr2.ttf)
+}
+
+.support-div {
+    font-family: 'Playtime';
+    color: #8F8476;
+    font-size: 1.4vw;
+    text-align: justify;
+    text-justify: inter-word;
+    justify-items: center;
+
+}
+
+.support-div div {
+    text-align: center;
+}
+
+.button-choice-low {
+    background-color: #fce5be;
+    color: #8F8476;
+    border: 4px solid #8F8476; /* Green */
+    padding: 10px 20px;
+    text-align: center;
+    margin-top: 1vh;
+    font-size: 100%;
+    font-family: Playtime, serif;
+    width: 10em;
+    height: 3em;
+    border-radius: 8px;
+    transition-duration: 0.4s;
+}
+
+.button-choice-low:hover {
+    background-color: #8F8476; /* Green */
+    color: #fce5be;
+}

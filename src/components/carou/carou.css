@@ -1,0 +1,37 @@
+@font-face {
+    font-family: 'Playtime';
+    src: url(../playtime_cyr2.ttf)
+}
+
+div .carousel-caption p{
+    color: #8F8476 !important;
+    font-family: Playtime, serif;
+    font-size: 120%;
+}
+
+div .carousel-caption h3 {
+    color: #8F8476 !important;
+    font-family: Playtime, serif;
+}
+
+.carousel-item {
+    display: inline-block;
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+}
+
+.carousel-item img {
+    width: 100%;
+}
+
+.carousel-item::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    box-shadow: 0px 0px 30px 70px #fce5be inset;
+}
+

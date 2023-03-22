@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Playtime';
+    src: url(../playtime_cyr2.ttf)
+}
+
+.about-div {
+    font-family: 'Playtime';
+    color: #8F8476;
+    font-size: 1.4vw;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.about-div h4 {
+    font-size: 1vw;
+}
