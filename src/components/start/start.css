@@ -3,8 +3,9 @@
     src: url(../playtime_cyr2.ttf)
 }
 
+
 .start-div {
-    height: 17vw;
+    width: 55%;
     aspect-ratio: 530 / 277;
     background-image: url("./bg-popup.png");
     background-size:     cover;                      
@@ -13,8 +14,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    
 }
+
 
 .astext {
     background:none;
@@ -24,7 +25,17 @@
     cursor: pointer;
     font-family: "Playtime", serif;
     color: #8F8476;
-    font-size: 1.4vw ;
+    font-size: 1.8rem ;
+}
+
+@media (max-width:1000px){
+    .start-div {
+        width: 90%;
+    }
+
+    .astext {
+        font-size: 1.5rem;
+    }
 }
 
 .astext:hover {
