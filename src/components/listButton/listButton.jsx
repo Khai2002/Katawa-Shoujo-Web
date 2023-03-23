@@ -8,7 +8,7 @@ import { faHeart } from '@fortawesome/free-solid-svg-icons'
 function ListButton() {
     return (
         <div className='div-list'>
-            <img id='logo' src={require('./cred_logo.png')} alt="logo"/>
+            <img id='logo' src={require('./dcd.png')} alt="logo"/>
             <h3>Katawa Shoujo : Stories Beyond</h3>
             <div className='div-button'>
                 <a href="#scrollAbout"><button className='button-choice'><FontAwesomeIcon icon={faHeart} />   About</button></a>

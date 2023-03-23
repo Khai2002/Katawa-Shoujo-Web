@@ -6,16 +6,23 @@
 .support-div {
     font-family: 'Playtime';
     color: #8F8476;
-    font-size: 1.4vw;
+    font-size: 1.5rem;
     text-align: justify;
     text-justify: inter-word;
     justify-items: center;
+}
 
+@media (max-width: 800px) {
+    .support-div{
+        font-size: 1.2rem;
+    }
 }
 
 .support-div div {
     text-align: center;
 }
+
+
 
 .button-choice-low {
     background-color: #fce5be;

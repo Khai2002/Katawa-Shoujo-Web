@@ -16,7 +16,7 @@
 
 .navbar .navbar-nav .nav-link{
     color: #8F8476;
-    font-size: 1.3vw !important;
+    font-size: 1.5em !important;
     margin-right: 3vmax;
     text-align: center;
 }
@@ -24,7 +24,7 @@
 .navbar-brand {
     font-family: 'Playtime Bold', serif;
     color: #8F8476 !important;
-    font-size: 1.4vw !important;
+    font-size: 1.7em !important;
     padding-right: 70px;
 }
 

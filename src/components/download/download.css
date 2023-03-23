@@ -6,7 +6,7 @@
 .download-div {
     font-family: 'Playtime';
     color: #8F8476;
-    font-size: 1.4vw;
+    font-size: 1.4rem;
     text-align: justify;
     text-justify: inter-word;
     justify-items: center;
@@ -17,6 +17,17 @@
     text-align: center;
     margin-right: 10vw;
 }
+
+@media (max-width: 800px) {
+    .download-div{
+        font-size: 1.2rem;
+    }
+    .download-div div {
+        margin-right: 0px;
+    }
+}
+
+
 
 .button-choice-low-2 {
     background-color: #fce5be;

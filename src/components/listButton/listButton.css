@@ -32,18 +32,26 @@
     flex-direction: column;
 }
 
+
 .div-list h3{
-    font-size: 1.5vmax;
+    font-size: 2em;
     font-family: 'Playtime Bold', serif;
     color: #8F8476;
     text-align: center;
+    margin-top: 2vh;
 }
 
 .div-list img {
-    margin-bottom: 2vmax;
-    margin-top: 3vmax;
-    margin-left: 20px;
-    width: 16.5vw;
+    display: block;
+    margin: auto;
+    height: 25vmin;
+}
+
+.div-list {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
 }
 
 
@@ -51,8 +59,4 @@
 .button-choice:hover {
     background-color: #8F8476; /* Green */
     color: #fce5be;
-}
-
-#logo {
-    margin-right: 70px;
 }

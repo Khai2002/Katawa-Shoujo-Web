@@ -7,7 +7,7 @@ import { faDiscord, faReddit, faYoutube } from '@fortawesome/free-brands-svg-ico
 function Contact() {
     return <div className="contact-div">
         <br/>
-        <p>If you have any inquiries, contact me at (most active on Reddit) : </p>
+        <p>If you have any inquiries, contact me at (most active on Reddit)</p>
         
         <div className='flex-box-button'>
             <a href='https://www.patreon.com/KyleDaBoss'><button className='button-choice-low'><FontAwesomeIcon icon={faReddit} />  Reddit</button></a>

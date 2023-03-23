@@ -6,9 +6,15 @@
 .about-div {
     font-family: 'Playtime';
     color: #8F8476;
-    font-size: 1.4vw;
+    font-size: 1.5rem;
     text-align: justify;
     text-justify: inter-word;
+}
+
+@media (max-width: 800px) {
+    .about-div{
+        font-size: 1.2rem;
+    }
 }
 
 .about-div h4 {
