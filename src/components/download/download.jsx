@@ -12,12 +12,12 @@ function Download() {
         </div>
         <br/>
         <p>Current Version:</p>
-        <ul><li>[ Version 1.0 ] Saki's Learning to Fly - Act 1 by Eurojester </li></ul>
+        <ul><li>[Ver 1.0] Saki's Learning to Fly - Act 1 by Eurojester </li></ul>
         
         <p>Future Version:</p>
         <ul>
-            <li>[ Version 1.1 ] Emi's Epilogue - Ascent by Mountaineer</li>
-            <li>[ Version 2.0 ] Saki's Learning to Fly - Act 2 by Eurojester</li>
+            <li>[Ver 1.1] Emi's Epilogue - Ascent by Mountaineer</li>
+            <li>[Ver 2.0] Saki's Learning to Fly - Act 2 by Eurojester</li>
         </ul>
     </div>;
 }

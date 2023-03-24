@@ -9,6 +9,7 @@
     flex-direction: row;
     flex-flow: row wrap;
     justify-content: space-evenly;
+    margin-top: 2vw;
 }
 
 .div-main {
@@ -21,7 +22,7 @@
 #scrollAbout, #scrollDownload, #scrollSupport{
     font-family: "Playtime Bold", serif;
     color: #8F8476;
-    font-size: 2.3rem;
+    font-size: 2.1rem;
     border-bottom: 4px solid #8F8476;
     padding: 1vh;
     margin-top: 100px;
@@ -31,7 +32,7 @@
 #scrollContact {
     font-family: "Playtime Bold", serif;
     color: #8F8476;
-    font-size: 2.3rem;
+    font-size: 2.1rem;
     border-bottom: 4px solid #8F8476;
     padding: 1vh;
     margin-top: 100px;
@@ -91,7 +92,7 @@
     }
 
     #scrollAbout, #scrollDownload, #scrollSupport, #scrollContact {
-        font-size: 3.7rem;
+        font-size: 3rem;
     }
 }
 

@@ -24,8 +24,14 @@
 .navbar-brand {
     font-family: 'Playtime Bold', serif;
     color: #8F8476 !important;
-    font-size: 1.5em !important;
+    font-size: 1.6em !important;
     padding-right: 70px;
+}
+
+@media (max-width:1000px){
+    .navbar-brand{
+        font-size: 1.3em !important;
+    }
 }
 
 .navbar .nav-link:hover {

@@ -25,16 +25,17 @@
     cursor: pointer;
     font-family: "Playtime", serif;
     color: #8F8476;
-    font-size: 1.8rem ;
+    font-size: 2rem ;
 }
 
 @media (max-width:1000px){
     .start-div {
-        width: 90%;
+        width: 95%;
     }
 
     .astext {
         font-size: 1.5rem;
+        padding: 1rem;
     }
 }
 
