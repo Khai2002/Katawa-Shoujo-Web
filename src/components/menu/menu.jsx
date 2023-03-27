@@ -7,6 +7,7 @@ import About from '../about/about';
 import Start from '../start/start';
 import Support from '../support/support';
 import Contact from '../contact/contact';
+import Bonus from '../bonus/bonus';
 
 
 
@@ -55,6 +56,8 @@ function Menu() {
             
             <div className="limit-length-2"><h4 id="scrollContact">Contact Me</h4></div>
                 <Contact />
+            <div className="limit-length-2"><h4 id="scrollBonus">Bonus Link</h4></div>
+                <Bonus />
         </div>
     </div>
     );

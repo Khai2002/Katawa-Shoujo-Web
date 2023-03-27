@@ -29,7 +29,7 @@
     display: inline-block;
 }
 
-#scrollContact {
+#scrollContact, #scrollBonus {
     font-family: "Playtime Bold", serif;
     color: #8F8476;
     font-size: 2.1rem;
@@ -91,7 +91,7 @@
         margin-bottom: 5vh;
     }
 
-    #scrollAbout, #scrollDownload, #scrollSupport, #scrollContact {
+    #scrollAbout, #scrollDownload, #scrollSupport, #scrollContact, #scrollBonus {
         font-size: 3rem;
     }
 }
