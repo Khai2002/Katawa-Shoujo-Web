@@ -8,7 +8,7 @@ function Download() {
         <br/>
         <div>
             <p>For PC: Windows and Linux <br/> Version 1.0</p>
-            <a href="https://drive.google.com/uc?id=1eb6MzOsTTSgv1scBbnQ6gZ3WHjn0p26B&export=download"><button className='button-choice-low-2'><FontAwesomeIcon icon={faDownload} />  Download for PC</button></a>
+            <a href="https://drive.google.com/uc?id=1ylIAK10nFYmy1qmff-_8XS2FAu_9QZTT&export=download"><button className='button-choice-low-2'><FontAwesomeIcon icon={faDownload} />  Download for PC</button></a>
         </div>
         <br/>
         <p>Current Version:</p>
