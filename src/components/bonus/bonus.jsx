@@ -9,7 +9,7 @@ function Bonus() {
         <br/>
         <div className='flex-box-button-2'>
             <div>
-                <p>Saki's Pseudo Route by Eurojester</p>
+                <p>Saki's Pseudo Route by Eurobeatjester</p>
                 <a href="https://ks.renai.us/viewtopic.php?f=52&t=9187"><button className='button-choice-low'><FontAwesomeIcon icon={faScrewdriverWrench} />  Learning to Fly</button></a>
             </div>
             <div>
