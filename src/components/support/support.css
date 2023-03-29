@@ -12,9 +12,22 @@
     justify-items: center;
 }
 
+#saki-support {
+    width: 115%;
+    margin-top: 4vmin;
+    margin-bottom: 4vmin;
+    margin-left: -4vmin;
+    box-shadow: 0.5vw -0.8vw 0.5vw 0.25vw #8F8476;
+}
+
 @media (max-width: 800px) {
     .support-div{
         font-size: 1.2rem;
+    }
+    
+    #saki-support {
+        width: 100%;
+        margin-left: auto;
     }
 }
 

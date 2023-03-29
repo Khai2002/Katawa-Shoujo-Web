@@ -7,7 +7,7 @@ function Support() {
     return <div className="support-div">
         <br/>
         <p>If you are pleased with our mods, please consider becoming a Patreon!</p>
-        
+        <img id="saki-support" src={require("./saki-support.png")} alt="saki"/>
         <div>
             <a href='https://www.patreon.com/KyleDaBoss'><button className='button-choice-low'><FontAwesomeIcon icon={faPatreon} />  Patreon</button></a>
         </div>

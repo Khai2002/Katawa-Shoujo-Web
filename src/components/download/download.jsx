@@ -7,7 +7,7 @@ function Download() {
     return <div className="download-div">
         <br/>
         <div>
-            <p>For PC: Windows and Linux <br/> Version 1.0</p>
+            <p>For PC: Windows, Mac and Linux <br/> Version 1.0</p>
             <a href="https://drive.google.com/uc?id=1ylIAK10nFYmy1qmff-_8XS2FAu_9QZTT&export=download"><button className='button-choice-low-2'><FontAwesomeIcon icon={faDownload} />  Download for PC</button></a>
         </div>
         <br/>
