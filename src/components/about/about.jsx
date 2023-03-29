@@ -12,8 +12,8 @@ function About() {
        <br/>
        <p>Our current projects are: </p>
         <ul>
-            <li>Learning to Fly: Saki's Pseudo Route (Act 1 available-ongoing)</li>
-            <li>Ascent: An Emi's Epilogue (releasing in next update)</li>
+            <li><a className='text-link' href="https://ks.renai.us/viewtopic.php?f=52&t=9187">Learning to Fly: Saki's Pseudo Route</a> (Act 1 available-ongoing)</li>
+            <li><a className='text-link' href="https://docs.google.com/document/d/1B9HKGprGPDz8rKdzqBIuRcsA6aWPTZZm_LXQ8OUKoTI/edit">Ascent: An Emi's Epilogue</a> (releasing in next update)</li>
         </ul>
         <p>Our future project beyond these two will hopefully be Sisterhood.</p>
         <br/>
